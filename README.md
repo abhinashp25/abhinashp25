@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinash Pradhan</h1>
-<h3 align="center">A passioA passionate DevOps Engineer from India , Practicing DSA(Python) daily along with diving into AI-ML</h3>
+<h3 align="center">A passioa passionate DevOps Engineer from India , Practicing DSA(Python) daily along with diving into AI-ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashp25&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashp25" /> </p>
 
