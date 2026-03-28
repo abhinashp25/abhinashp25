@@ -1,22 +1,117 @@
-<h1 align="center">Hi 👋, I'm Abhinash Pradhan</h1>
-<h3 align="center">A passioa passionate DevOps Engineer from India , Practicing DSA(Python) daily along with diving into AI-ML</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Professional Banner" width="100%" height="180px" style="border-radius:15px; object-fit:cover;"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinashp25&label=Profile%20views&color=0e75b6&style=flat" alt="abhinashp25" /> </p>
+<div align="center">
+  <h1>Abhinash Pradhan</h1>
+  <p>
+    <strong>DevOps Engineer</strong> • <strong>DSA Practitioner (Python)</strong> • <strong>AI/ML Enthusiast</strong>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/abhinash-pradhan-74b389294/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/abhinashp25" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://leetcode.com/u/abhinash_pradhan/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="https://my-portfolio-ten-iota-hup9a33ntx.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:abhinashpradhan8658@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-- 💬 Ask me about **JS, JAVA, PYTHON, DSA,**
+---
 
-- 📫 How to reach me **abhinashpradhan8658@gmail.com**
+## 🎯 **Core Expertise & Focus**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinash-pradhan-74b389294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinash-pradhan-74b389294/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhinash_pradhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhinash_pradhan/" height="30" width="40" /></a>
-</p>
+- **🛠️ DevOps Engineering** — Automating infrastructure, implementing CI/CD pipelines, and ensuring system reliability at scale
+- **📊 Data Structures & Algorithms** — Strengthening problem-solving skills through daily DSA practice in Python
+- **🤖 AI/ML Integration** — Exploring machine learning models and integrating them into production-ready applications
+- **🌐 Full Stack Development** — Building end-to-end applications with JavaScript, Java, and Python
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinashp25&show_icons=true&locale=en&layout=compact" alt="abhinashp25" /></p>
+## 🛠️ **Technology Stack**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinashp25&show_icons=true&locale=en" alt="abhinashp25" /></p>
+<div align="center">
 
+### 🖥️ **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### ☁️ **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 🌐 **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🤖 **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### 📦 **Version Control & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **GitHub Statistics**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinashp25&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&border_radius=10&card_width=500" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinashp25&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 **Development Roadmap**
+
+| Goal | Status | Focus Area |
+|------|--------|-----------|
+| Advanced DevOps Practices | 🔄 *In Progress* | Kubernetes, Terraform, CI/CD Automation |
+| Master DSA in Python | 🔄 *In Progress* | Dynamic Programming, Graph Algorithms |
+| Production AI/ML Integration | 📋 *Planned* | MLOps, Model Deployment |
+| Cloud Certification | 📋 *Planned* | AWS Solutions Architect |
+
+---
+
+## 📝 **Values & Philosophy**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WGEufo3ffXdsyPqZYk/giphy.gif" width="25px"/> 
+  <strong>Automate → Optimize → Learn → Innovate → Repeat</strong>
+  <img src="https://media.giphy.com/media/WGEufo3ffXdsyPqZYk/giphy.gif" width="25px"/>
+</div> 
+
+**I believe in building resilient, scalable systems while continuously improving through consistent practice and learning. Every line of code and every infrastructure decision is a step toward excellence.**
+
+---
+
+<div align="center">
+  <h3>⭐ If you like my work, consider giving it a star!</h3>
+  <p><strong>Let's connect and build something amazing!</strong></p>
+</div>
